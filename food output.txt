@@ -1,0 +1,14 @@
+------ Welcome to Jorsi Food Shop ------
+Menu
+1. Pizza - ₹120
+2. Burger - ₹80
+3. Sandwich - ₹60
+4. Juice - ₹40
+Enter your choice (1-4): 3
+Enter quantity: 4
+
+----- BILL -----
+Item: Sandwich
+Quantity: 4
+Total Price: ₹ 240
+Thank you for visiting!
